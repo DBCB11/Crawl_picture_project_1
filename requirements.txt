@@ -1,3 +1,5 @@
 requests
 os
 beautifulsoup4
+time
+Selenium 
