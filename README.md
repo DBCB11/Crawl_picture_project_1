@@ -7,7 +7,7 @@ The `crawlpicture1.1.py` will use [beautifulsoup4](https://pypi.org/project/beau
 
 The `crawlpicture1.2.py` will use [Selenium](https://pypi.org/project/selenium/) to perform many automated tasks on the web browser. This file can customize the parameters you desire.
 
-# User manual 
+# Instructions 
 
 In all 3 folders, you just need to run the program.
 
