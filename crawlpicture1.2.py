@@ -59,7 +59,6 @@ def download_person_image(save_path, etnic = None, age = None, gender = None):
     # Lấy src của img sau khi đã thực hiện các click 
     img_url = img.get_attribute("src")
     response = requests.get(img_url)
-    img_data = response.content
     img_path = os.path.join(save_path, "test3.jpg")
 
     if response.status_code == 200:
